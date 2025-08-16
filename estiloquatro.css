@@ -1,0 +1,21 @@
+h1{
+    color: rgb(245, 245, 245);
+    background-color: rgb(255, 187, 235);
+}
+
+h2{
+    color: rgba(255, 255, 255, 0.918);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+body{
+    background-color: rgb(255, 187, 235);
+}
+
+img{
+    width: 300px;
+}

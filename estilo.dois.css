@@ -1,0 +1,20 @@
+h1{
+    color: rgb(18, 57, 102);
+    background-color: rgb(165, 255, 185);
+}
+
+h2{
+    color: rgb(18, 57, 102);
+}
+
+p{
+    color: rgb(18, 57, 102);
+    font-size: 35px;
+}
+
+body{
+    background-color: rgb(165, 255, 185);
+  }
+img{
+    width: 300px;
+}
